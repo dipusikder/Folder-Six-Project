@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 100vh;
+    background-image: url(images/donation7.jpg);
+    padding: 12%;
+
+}
+
+.first-contant {
+    padding: 7%;
+    border: 33%;
+}
+
+.half-widht {
+    font-size: 65px;
+    color: white;
+    text-align: center;
+    margin-bottom: 5%;
+
+
+}
+
+.secenod-widht {
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    margin-bottom: 4%;
+}
+
+.link-button {
+    height: 50px;
+    width: 153px;
+    color: white;
+    background-color: rgb(247, 19, 19);
+    margin-left: 339px;
+    margin-right: 350px;
+    padding-top: 13px;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 11px;
+}
+
+.continer {
+    margin-top: 10%;
+    font-size: 44px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.continer-text {
+    margin-top: 4%;
+    text-align: center;
+    margin-left: 319px;
+    margin-right: 242px;
+    color: dimgrey;
+}
+
+.ALL-box {
+    display: flex;
+
+}
+
+#box-model {
+    height: 41px;
+    width: 108px;
+    margin-top: 56px;
+    margin-bottom: 200px;
+    padding-top: 34px;
+    padding-bottom: 19px;
+    margin-left: 322px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 700;
+}
+
+#box-model-1 {
+    height: 41px;
+    width: 108px;
+    color: red;
+    margin-top: 56px;
+    margin-bottom: 200px;
+    padding-top: 34px;
+    padding-bottom: 19px;
+    margin-left: 41px;
+    background-color: rgb(230, 132, 243);
+    border: 3px solid rgb(255, 0, 13);
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 700;
+}
+
+#box-model-2 {
+    height: 41px;
+    width: 108px;
+    margin-top: 56px;
+    margin-bottom: 200px;
+    padding-top: 34px;
+    padding-bottom: 19px;
+    margin-left: 41px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 700;
+}
+
+#box-model-3 {
+    height: 41px;
+    width: 108px;
+    margin-top: 56px;
+    margin-bottom: 200px;
+    padding-top: 34px;
+    padding-bottom: 19px;
+    margin-left: 41px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 700;
+}
+
+#box-model-4 {
+    height: 41px;
+    width: 108px;
+    margin-top: 56px;
+    margin-bottom: 200px;
+    padding-top: 34px;
+    padding-bottom: 19px;
+    margin-left: 41px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 700;
+
+}
+.down{
+    text-align: center;
+    color: dimgrey;
+}
+.link-button-2{
+    height: 50px;
+    width: 153px;
+    color: white;
+    background-color: rgb(247, 19, 19);
+    margin-left: 590px;
+    margin-right: 350px;
+    padding-top: 13px;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 11px;
+}
+#brekdown{
+    width: 724px;
+    margin-left: 321px;
+    margin-bottom: 23px;
+    margin-top: 4px;
+}
