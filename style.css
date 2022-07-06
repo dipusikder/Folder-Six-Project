@@ -137,11 +137,13 @@
     font-weight: 700;
 
 }
-.down{
+
+.down {
     text-align: center;
     color: dimgrey;
 }
-.link-button-2{
+
+.link-button-2 {
     height: 50px;
     width: 153px;
     color: white;
@@ -153,16 +155,19 @@
     font-size: 25px;
     border-radius: 11px;
 }
-#brekdown{
+
+#brekdown {
     width: 724px;
     margin-left: 321px;
     margin-bottom: 23px;
     margin-top: 4px;
 }
-.ALL-box-1{
+
+.ALL-box-1 {
     display: flex;
 }
-.home-1{
+
+.home-1 {
     height: 245px;
     width: 286px;
     margin-left: 153px;
@@ -174,17 +179,21 @@
     border-radius: 2px;
 
 }
-.home-1 img{
+
+.home-1 img {
     margin-bottom: 21px;
 }
-.min{
+
+.min {
     margin-bottom: 29px;
 }
-.part-1{
+
+.part-1 {
     text-align: justify;
     color: darkgrey;
 }
-.home-2{
+
+.home-2 {
     height: 245px;
     width: 286px;
     margin-left: 28px;
@@ -196,11 +205,13 @@
     border-radius: 8px;
 
 }
-.min-1{
+
+.min-1 {
     margin-top: 18px;
     margin-bottom: 29px;
 }
-.home-3{
+
+.home-3 {
     height: 245px;
     width: 286px;
     margin-left: 28px;
@@ -211,7 +222,8 @@
     background-color: bisque;
     border-radius: 8px;
 }
-.width{
+
+.width {
     height: 245px;
     width: 464px;
     margin-left: 119px;
@@ -221,20 +233,27 @@
     padding-right: 21px;
 
 }
-.document{
+
+.document {
     margin-bottom: 32px;
     font-size: 44px;
     font-weight: 700;
 }
-.fit{
+.rull{
+    color: darkgrey;
+}
+
+.fit {
     margin-top: 10px;
     margin-bottom: 22px;
 }
-.fix{
+
+.fix {
     margin-top: 176px;
     margin-left: 34px;
 }
-.link-button-3{
+
+.link-button-3 {
     height: 50px;
     width: 258px;
     color: white;
@@ -245,4 +264,45 @@
     text-align: center;
     font-size: 25px;
     border-radius: 11px;
+}
+
+.one-side {
+    width: 352px;
+    margin-left: 469px;
+    text-align: center;
+    margin-top: 147px;
+    height: 97px;
+}
+
+.subcrip {
+    font-size: 46px;
+    font-weight: 700;
+    margin-bottom: 23px;
+}
+.all-border{
+    display: flex;
+    height: 50px;
+    width: 50px;
+    margin-top: 12px;
+    margin-left: 55px;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+.border{
+    height: 27px;
+    width: 55px;
+    margin-bottom: 34px;
+}
+.last{
+    margin-top: 52px;
+    height: 207px;
+    width: 768px;
+    margin-left:-207px;
+    background-color: blanchedalmond;
+    
+}
+.last-line{
+    background-color: darkgrey;
+    height: 5px;
+    width: 10px;
 }
