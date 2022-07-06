@@ -211,17 +211,25 @@
     background-color: bisque;
     border-radius: 8px;
 }
-.chapter{
-    height: 55px;
-    width: 485px;
-    margin-top: 149px;
-    margin-left: 156px;
-    padding-left: 44px;
+.width{
+    height: 245px;
+    width: 464px;
+    margin-left: 172px;
+    margin-top: 46px;
+    padding-top: 118px;
+    padding-left: 28px;
+    padding-right: 21px;
+
 }
-.chapter-1{
+.document{
+    margin-bottom: 32px;
     font-size: 44px;
-    margin-bottom: 20px;
+    font-weight: 700;
 }
-.define{
-    margin-top: 12px;
+.fit{
+    margin-top: 10px;
+}
+.fix{
+    margin-top: 176px;
+    margin-left: 34px;
 }
