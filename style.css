@@ -57,6 +57,7 @@
     margin-left: 319px;
     margin-right: 242px;
     color: dimgrey;
+    font-weight: 700;
 }
 
 .ALL-box {
@@ -94,7 +95,7 @@
     font-weight: 700;
 }
 
-#box-model-2 {
+.box-model-2 {
     height: 41px;
     width: 108px;
     margin-top: 56px;
@@ -108,7 +109,7 @@
     font-weight: 700;
 }
 
-#box-model-3 {
+.box-model-3 {
     height: 41px;
     width: 108px;
     margin-top: 56px;
@@ -122,7 +123,7 @@
     font-weight: 700;
 }
 
-#box-model-4 {
+.box-model-4 {
     height: 41px;
     width: 108px;
     margin-top: 56px;
@@ -157,4 +158,70 @@
     margin-left: 321px;
     margin-bottom: 23px;
     margin-top: 4px;
+}
+.ALL-box-1{
+    display: flex;
+}
+.home-1{
+    height: 245px;
+    width: 286px;
+    margin-left: 153px;
+    margin-top: 46px;
+    padding-top: 36px;
+    padding-left: 28px;
+    padding-right: 21px;
+    background-color: aliceblue;
+    border-radius: 2px;
+
+}
+.home-1 img{
+    margin-bottom: 21px;
+}
+.min{
+    margin-bottom: 29px;
+}
+.part-1{
+    text-align: justify;
+    color: darkgrey;
+}
+.home-2{
+    height: 245px;
+    width: 286px;
+    margin-left: 28px;
+    margin-top: 46px;
+    padding-top: 36px;
+    padding-left: 28px;
+    padding-right: 21px;
+    background-color: rgb(238, 220, 229);
+    border-radius: 8px;
+
+}
+.min-1{
+    margin-top: 18px;
+    margin-bottom: 29px;
+}
+.home-3{
+    height: 245px;
+    width: 286px;
+    margin-left: 28px;
+    margin-top: 46px;
+    padding-top: 36px;
+    padding-left: 28px;
+    padding-right: 21px;
+    background-color: bisque;
+    border-radius: 8px;
+}
+.chapter{
+    height: 55px;
+    width: 485px;
+    margin-top: 149px;
+    margin-left: 156px;
+    padding-left: 44px;
+}
+.chapter-1{
+    font-size: 44px;
+    margin-bottom: 20px;
+}
+.define{
+    margin-top: 12px;
 }
